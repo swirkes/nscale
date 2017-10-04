@@ -1,7 +1,5 @@
-# This program originated in Listing 1.5.3, Chapter 1 of The Audio Programming book from 
-MIT Press
-# nscale
-is a program that outputs a list of frequencies for an Equal Tempered scale of N notes 
+# This program originated in Listing 1.5.3, Chapter 1 of The Audio Programming book from MIT Press:
+nscale is a program that outputs a list of frequencies for an Equal Tempered scale of N notes 
 beginning on the frequency of the user supplied MIDI note.
 In the western music tradition, Equal Tempermant is a tuning protocol that divides an octave 
 into 12 equidistant semitones. This equidistance is what allows free modulation across 
